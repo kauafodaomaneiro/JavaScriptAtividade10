@@ -22,3 +22,18 @@ function verificarSinal(numero){
 }
 
 verificarSinal(numero);
+
+//Função para Converter Celsius em Fahrenheit:
+//Crie uma função chamada converterTemperatura que receba uma temperatura em Celsius e retorne o valor convertido para Fahrenheit.
+
+let temperaturaA = prompt('Insira a temperatura para a conversão de Celsius para Fahrenheit.')
+let temperaturaB
+let Fahrenheit
+
+function converterTemperatura(){
+
+    temperaturaB = temperaturaA + 1,8
+        
+
+
+}
